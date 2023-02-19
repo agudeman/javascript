@@ -20,7 +20,7 @@ let age = 2023 - birthYear;
 // if user was born in 2001 prompt will update with "You are old enough to drink in the US...barely"
 if (age >= 21) {
     alert("You are old enough to drink in the US");
-} else if (age === 18) {
+} else if (age === 21) {
     alert("You are old enough to drink in the US...barely");
 } else {
     alert("Sorry, you are not old enough to drink in the US");
